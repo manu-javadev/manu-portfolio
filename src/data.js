@@ -117,7 +117,7 @@ export const featuredProject = {
   ],
   tags: ['Java 17', 'Spring Boot', 'Spring Security', 'Spring Cloud', 'PostgreSQL', 'RabbitMQ', 'React', 'Docker', 'AWS'],
   // TODO: replace with the FlowPulse repository URL
-  link: 'https://github.com/manu-javadev',
+  link: 'https://github.com/manu-javadev/flowpulse',
 }
 
 export const projects = [
