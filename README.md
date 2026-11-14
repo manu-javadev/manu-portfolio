@@ -12,7 +12,7 @@ responsive down to phone width, no UI libraries.
 | **Experience** | 6+ years |
 | **Location** | Punjab, India |
 | **Email** | manu66449@gmail.com |
-| **LinkedIn** | [linkedin.com/in/manusharma-javadev](https://www.linkedin.com/in/manusharma-javadev) |
+| **LinkedIn** | [linkedin.com/in/manu-javadev](https://www.linkedin.com/in/manu-javadev) |
 | **GitHub** | [github.com/manu-javadev](https://github.com/manu-javadev) |
 
 ## Run locally

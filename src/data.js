@@ -11,8 +11,8 @@ export const profile = {
   email: 'manu66449@gmail.com',
   github: 'https://github.com/manu-javadev',
   githubLabel: 'github.com/manu-javadev',
-  linkedin: 'https://www.linkedin.com/in/manusharma-javadev',
-  linkedinLabel: 'linkedin.com/in/manusharma-javadev',
+  linkedin: 'https://www.linkedin.com/in/manu-javadev',
+  linkedinLabel: 'linkedin.com/in/manu-javadev',
   resume: '/resume.pdf',
   // Third-person summary used by the chat assistant.
   bio: 'She builds secure, event-driven backends with Java and Spring Boot, and React + TypeScript frontends on top of them, for enterprise platforms in healthcare procurement, university fundraising, vehicle titling, and medical devices.',
@@ -24,7 +24,7 @@ export const stats = [
   { value: '6+', label: 'Years building enterprise web apps' },
   { value: '3', label: 'Enterprise client platforms at Netsmartz' },
   { value: 'AWS + Azure', label: 'Cloud deployments with Docker & CI/CD' },
-  { value: 'Zero', label: 'Data loss on payouts, using retries + DLQs' },
+  { value: '100%', label: 'Payout delivery with Retries + DLQ fallback' },
 ]
 
 export const about =
@@ -169,10 +169,10 @@ export const skillGroups = [
   { title: 'Frontend', items: ['React 19', 'Redux Toolkit', 'AG Grid', 'Quill.js', 'Vite', 'MUI', 'Bootstrap', 'CoffeeScript'], core: ['React 19', 'Redux Toolkit'] },
   { title: 'Security', items: ['Spring Security', 'JWT', 'Refresh Token Rotation', 'RBAC', 'Entra ID SSO (MSAL)'], core: ['Spring Security', 'JWT'] },
   { title: 'Messaging', items: ['RabbitMQ', 'Apache Kafka', 'Dead Letter Queues'], core: ['RabbitMQ'] },
-  { title: 'Databases', items: ['MySQL', 'PostgreSQL', 'MongoDB'], core: ['PostgreSQL'] },
+  { title: 'Databases', items: ['MySQL', 'PostgreSQL', 'MongoDB'], core: ['MySQL'] },
   { title: 'Cloud & DevOps', items: ['AWS S3', 'CloudFront', 'CloudWatch', 'Azure', 'Docker', 'GitHub Actions', 'CI/CD'], core: ['AWS S3', 'Docker'] },
-  { title: 'Tools', items: ['Git', 'GitHub', 'JIRA', 'Flyway', 'Jasper Reports', 'Agile / Scrum'], core: [] },
-  { title: 'AI Tools', items: ['GitHub Copilot', 'Claude', 'ChatGPT', 'Agentic AI workflows'], core: [] },
+  { title: 'Tools', items: ['Git', 'GitHub', 'JIRA', 'Flyway', 'Jasper Reports', 'Agile / Scrum'], core: ['GitHub', 'JIRA'] },
+  { title: 'AI Tools', items: ['GitHub Copilot', 'Claude', 'ChatGPT', 'Agentic AI workflows'], core: ['GitHub Copilot', 'Claude'] },
 ]
 
 export const education = [
